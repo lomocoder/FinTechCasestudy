@@ -1,6 +1,7 @@
-# Case Study: Shakepay
+# Case Study: Shakepay![image](https://user-images.githubusercontent.com/98040538/155917959-d7d4cf1f-de0b-490d-b99e-faa6e5d23e4a.png)
 ## Overview and Origin
-## **Shakepay** 
+## **Shakepay**
+
 
 Allows residents of Canada to buy and sell cryptocurrencies through an application predominantly and isolated to Bitcoin and Ethereum at the moment.
 Shakepay was incorporated in 2015 in Montreal, Canada.<sup>[1]
