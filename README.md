@@ -10,7 +10,7 @@ Shakepay was incorporated in 2015 in Montreal, Canada.<sup>[1]
   
 ### Project Origin:
 
-Shakepay’s original business plan was to provide clients with a card that they could load with Bitcoin and ultimately go into retail stores and make purchases. But they ran into issues with their partnering bank and VISA, this fallout led to the founders making Shakepay and Exchange<sup>[2]. 
+Shakepay’s original business plan was to provide clients with a card that they could load with Bitcoin and ultimately go into retail stores and make purchases. But they ran into issues with their partnering bank and VISA, this fallout led to the founders making Shakepay an exchange<sup>[2]. 
 
 
 ### Funding : 
@@ -28,7 +28,7 @@ The founders of shakepay set out to ease the difficulty of accessing cryptocurre
 
 ### Target Clients
 
-Shakepay is a Canadian company that tends to Canadians. The application is user friendly and enables Canadians of all ages, from university students to full time workers to the retired, use Shakepay to bridge to the digital economy, which is accessible via the internet. Shakepay has over 800,000 Canadians using the platform which equates to about 2% of the country and back in May 2021, Shakepay hosted 600,000 Canadians on the platform. The company has proven to be effective in this domain , which can be objectively seen by the growth of new customers onboarding and using the platform.<sup>[6]
+Shakepay is a Canadian company that tends to Canadians. The application is user friendly and enables Canadians of all ages, from university students to full time workers to the retired, use Shakepay to bridge to the digital economy, which is accessible via the internet. Shakepay has over 800,000 Canadians using the platform which equates to about 2% of the country and back in May 2021, Shakepay hosted 600,000 Canadians on the platform. The company has proven to be effective in this domain , which can be objectively seen by new customers onboarding and using the platform.<sup>[6]
 
 ### Competitive Advantage
 
